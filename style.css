@@ -352,7 +352,7 @@ footer p{
     footer{
         width: 100%;
     }
-    .container, .skils-sub, .special,.team-img,.feature-text,.icon-box, footer p, .banner .{
+    .container, .skils-sub, .special,.team-img,.feature-text,.icon-box, footer p{
         width: 100%;
         padding: 10px 10px;
     }
